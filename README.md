@@ -1,6 +1,6 @@
 # BraCoin  - Smart Contract
 
-Welcome! , this repository contains a smart contract made in the OP University - Costa Rica module. Doesn't follow a standard like ERC-20, was made to learn more about solidity and better understand how cryptocurrencies work once smart contract is deployed.For educational purposes
+Welcome! , this repository contains a smart contract made in the OP University - Costa Rica module. Doesn't follow a standard like ERC-20, was made to learn more about solidity and better understand how cryptocurrencies work once smart contract is deployed. For educational purposes.
 
 ## Features
 
